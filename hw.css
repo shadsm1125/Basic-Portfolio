@@ -1,0 +1,63 @@
+h1{
+	color: #4aaaa5;
+	background: #ffffff; 
+	border-color: #cccccc;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	border: 150px #cccccc
+	height:100px;
+	margin: 20px;
+	padding: 20 px;
+	width: 400px; 
+}
+h2 {
+	color: #4aaaa5;
+	background: #ffffff; 
+	border-color: #cccccc;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	height:100px;
+	margin: 20px;
+	padding: 20 px;
+	width: 400px;
+}
+p {
+	color: #777777;
+	font font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+aside {
+	float: right;
+	color: #4aaaa5;
+	background: #ffffff; 
+	border-color: #cccccc;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	border: 150px #cccccc
+	height:100px;
+	margin: 20px;
+	padding: 20 px;
+	width: 400px; 
+
+}
+div {
+    width: 320px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 0;
+    background: #ffffff; 
+	border-color: #cccccc;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	border: 150px #cccccc
+	height:100px;
+	margin: 20px;
+	padding: 20 px;
+	width: 400px;  
+}
+
+main content {
+	background: #ffffff
+	border-color:#dddddd;
+	padding: 120px; 
+}
+footer {position: fixed;
+align-content: center;
+border: #cccccc
+background: #ffffff;
+}
